@@ -1,10 +1,40 @@
-### Ajit Chandravanshi  
-**Computer Science Undergrad | JavaScript Ninja | Backend Developer | Data Science Aficionado | Open Source Enthusiast**  
+<h1 align="center">Hi 👋, I'm Ajit Chandravanshi</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-🚀 Passionate about solving real-world problems with clean, efficient, and scalable code.  
-🌱 Currently mastering **JavaScript**, **Node.js**, **Express.js**, and exploring **MERN Stack** development.  
-💻 Expanding my skills in **Android Development with Java**, **Data Science**, and **Machine Learning**.  
-💡 Fascinated by the intersections of **web development**, **data structures**, and **algorithms**.  
-👨‍🎓 Pursuing a B.Tech in **Computer Science Engineering** at **Parul Institute of Engineering and Technology**.  
-📌 Actively contributing to open-source projects and building innovative applications.  
-🌟 Lifelong learner with a keen interest in creating impactful solutions and staying updated with cutting-edge technologies.  
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+- 🌱 I’m currently learning **MEARN Stack, Machine Learning, Android with Kotlin**
+
+- 👨‍💻 All of my projects are available at [https://github.com/AjitChandravanshi001](https://github.com/AjitChandravanshi001)
+
+- 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, Android, Kotlin**
+
+- 📫 How to reach me **ajitchandravanshi001@gmail.com**
+
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ajit-chandravanshi/)
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,kotlin,androidstudio,java,html,css,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AjitChandravanshi001&show_icons=true&theme=radical" alt="Ajit's GitHub stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjitChandravanshi001&layout=compact&theme=radical" alt="Ajit's Top Languages"/>
+</p>
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/ajit-chandravanshi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+<a href="mailto:ajitchandravanshi001@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" /></a>
+</p>
