@@ -35,6 +35,6 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/ajit-chandravanshi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+<a href="www.linkedin.com/in/ajitchandravanshi6" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
 <a href="mailto:ajitchandravanshi6@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" /></a>
 </p>
