@@ -31,6 +31,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjitChandravanshi001&layout=compact&theme=radical" alt="Ajit's Top Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ajit_Chandravanshi?ext=activity" alt="LeetCode Stats">
+</p>
+
 ---
 
 ### 🌐 Connect with me:
