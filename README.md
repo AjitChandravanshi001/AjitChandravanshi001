@@ -17,7 +17,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,react,kotlin,androidstudio,java,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mongodb,kotlin,androidstudio,java,html,css,github,vscode" />
 </p>
 
 ---
@@ -36,5 +36,5 @@
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ajit-chandravanshi" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-<a href="mailto:ajitchandravanshi001@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" /></a>
+<a href="mailto:ajitchandravanshi6@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="30" /></a>
 </p>
