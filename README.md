@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, Android, Kotlin**
 
-- 📫 How to reach me **ajitchandravanshi001@gmail.com**
+- 📫 How to reach me **ajitchandravanshi6@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ajit-chandravanshi/)
 
